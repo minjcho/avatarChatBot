@@ -1,0 +1,6 @@
+livekit==1.0.7
+livekit-agents[openai,silero,deepgram,elevenlabs]==1.0.20
+requests
+python-dotenv
+pandas
+
